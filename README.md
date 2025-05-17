@@ -14,3 +14,5 @@ Mãos à obra: Agora é só ir para a cozinha e preparar seu pãozinho!
 
 
 Com o PadarIA, encontrar a receita perfeita ficou fácil. Experimente!
+
+![image](https://github.com/user-attachments/assets/369eec0c-a0e2-474b-8915-d613631f05cc)
